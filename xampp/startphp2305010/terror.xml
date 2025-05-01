@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<terrorAttacks>
+    <attack>
+        <id>1</id>
+        <date>2025-04-20</date>
+        <location>
+            <country>India</country>
+            <city>New Delhi</city>
+        </location>
+        <attackType>Bombing</attackType>
+        <casualties>
+            <dead>50</dead>
+            <injured>100</injured>
+        </casualties>
+        <groupResponsible>Al-Qaeda</groupResponsible>
+        <description>Suicide bombers targeted a crowded market area during peak hours.</description>
+    </attack>
+    <attack>
+        <id>2</id>
+        <date>2025-04-22</date>
+        <location>
+            <country>USA</country>
+            <city>New York</city>
+        </location>
+        <attackType>Shooting</attackType>
+        <casualties>
+            <dead>15</dead>
+            <injured>30</injured>
+        </casualties>
+        <groupResponsible>ISIS</groupResponsible>
+        <description>Gunmen opened fire at a public event in Central Park.</description>
+    </attack>
+    <attack>
+        <id>3</id>
+        <date>2025-04-25</date>
+        <location>
+            <country>France</country>
+            <city>Paris</city>
+        </location>
+        <attackType>Hostage Situation</attackType>
+        <casualties>
+            <dead>8</dead>
+            <injured>20</injured>
+        </casualties>
+        <groupResponsible>Homegrown Extremists</groupResponsible>
+        <description>Several hostages were taken in a shopping mall before the situation was resolved.</description>
+    </attack>
+</terrorAttacks>
